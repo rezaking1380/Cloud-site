@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36049a0a.css",
+    "main.js": "/static/js/main.fd3d52c2.js",
+    "static/media/server.png": "/static/media/server.5e4562a877ac74bf003f.png",
+    "static/media/img-5.jpg": "/static/media/img-5.637994f3cf1ad72f5737.jpg",
+    "static/media/reza-logo.png": "/static/media/reza-logo.b5a380253a82f35c0fdb.png",
+    "static/media/Asset 2-8.png": "/static/media/Asset 2-8.d1fec859f7ccf088717b.png",
+    "index.html": "/index.html",
+    "main.36049a0a.css.map": "/static/css/main.36049a0a.css.map",
+    "main.fd3d52c2.js.map": "/static/js/main.fd3d52c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36049a0a.css",
+    "static/js/main.fd3d52c2.js"
+  ]
+}
